@@ -1,10 +1,1 @@
-About this course
-Go from zero to hero with Git source control step-by-step with easy to understand examples. Become the next Git expert!
-
-By the numbers
-Skill level: All Levels
-Students: 71387
-Languages: English
-Captions: Yes
-Lectures: 84
-Video: 6 total hours
+change this fake time commit
