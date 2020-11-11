@@ -1,3 +1,4 @@
 change this fake time commit
 
-adđ conflict 2 in master
+conflict 2 in feature
+conflict 2 in master
